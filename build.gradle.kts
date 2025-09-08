@@ -72,7 +72,7 @@ publishing {
             pom {
                 name.set("OTLUB Android SDK")
                 description.set("OTLUB Android SDK for easy integration with OTLUB API services")
-                url.set("https://github.com/snapone-studio/otlub-android-sdk")
+                url.set("https://github.com/vollstech/otlub-android-sdk")
                 
                 licenses {
                     license {
@@ -90,9 +90,9 @@ publishing {
                 }
                 
                 scm {
-                    connection.set("scm:git:git://github.com/snapone-studio/otlub-android-sdk.git")
-                    developerConnection.set("scm:git:ssh://github.com:snapone-studio/otlub-android-sdk.git")
-                    url.set("https://github.com/snapone-studio/otlub-android-sdk")
+                    connection.set("scm:git:git://github.com/vollstech/otlub-android-sdk.git")
+                    developerConnection.set("scm:git:ssh://github.com:vollstech/otlub-android-sdk.git")
+                    url.set("https://github.com/vollstech/otlub-android-sdk")
                 }
             }
         }
